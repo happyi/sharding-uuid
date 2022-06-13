@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sharding-uuid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sharding_uuid_jar</output-path>
+    <root id="archive" name="sharding-uuid.jar">
+      <element id="module-output" name="sharding-uuid" />
+    </root>
+  </artifact>
+</component>
